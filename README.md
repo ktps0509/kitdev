@@ -24,7 +24,7 @@ I like coding and I like to learning but I'm not professional. :joy::seedling:
  <img src="https://ionicframework.com/img/meta/logo.png" width="30">
   </td>
   <td>
- <img src="https://w7.pngwing.com/pngs/167/148/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png" width="40">
+ <img src="https://enggkatta.com/sql.png" width="40">
   </td>
    <td>
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="30">
