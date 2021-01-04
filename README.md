@@ -24,13 +24,13 @@ I like coding and I like to learning but I'm not professional. :joy::seedling:
  <img src="https://ionicframework.com/img/meta/logo.png" width="30">
   </td>
   <td>
- <img src="https://banner2.cleanpng.com/20180526/oqt/kisspng-microsoft-sql-server-mysql-database-logo-5b098c6ebad6d7.7316225815273524307653.jpg" width="30">
+ <img src="https://w7.pngwing.com/pngs/134/190/png-transparent-sql-logo-microsoft-sql-server-mysql-database-logo-others-blue-text-trademark.png" width="30">
   </td>
    <td>
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="30">
   </td>
   <td>
- <img src="https://img.favpng.com/23/10/7/c-programming-language-logo-microsoft-visual-studio-net-framework-png-favpng-WLLTMqZhSPAk9q3DTh993fZnh.jpg" width="30">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="30">
   </td>
  </tr>
 </table>
