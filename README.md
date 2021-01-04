@@ -6,7 +6,7 @@ I like coding and I like to learning but I'm not professional. :joy::seedling:
 
 
 ## Languages and Tools :computer:
-<table style="border: none">
+<table style="border-style: none">
  <tr>
   <td>
  <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" width="35">
