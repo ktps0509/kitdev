@@ -24,7 +24,7 @@ I like coding and I like to learning but I'm not professional. :joy::seedling:
  <img src="https://ionicframework.com/img/meta/logo.png" width="30">
   </td>
   <td>
- <img src="https://www.clipartmax.com/png/middle/275-2753287_sql-is-a-query-language-used-to-communicate-with-databases-sql-language.png" width="30">
+ <img src="https://banner2.cleanpng.com/20180705/yke/kisspng-sql-database-computer-icons-download-sql-icon-5b3ed4c9cc9013.8225606715308443618379.jpg" width="40">
   </td>
    <td>
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="30">
