@@ -26,10 +26,13 @@ Give me oppotunity if you have anything to suggest me.
  <img src="https://ionicframework.com/img/meta/logo.png" width="30">
   </td>
   <td>
- <img src="https://enggkatta.com/sql.png" width="40">
+ <img src="https://enggkatta.com/sql.png" width="30">
   </td>
    <td>
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="30">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="30">
+  </td>
+   <td>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="30">
   </td>
   <td>
  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="50">
