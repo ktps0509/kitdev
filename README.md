@@ -3,7 +3,7 @@
 My name is Kittipich. You can call me Will. I'm Fullstack Developer.
 I like coding and I like to learning.
 Give me oppotunity if you have anything to suggest me.
- :joy::seedling:
+ :joy: :seedling:
 
 
 
@@ -11,28 +11,31 @@ Give me oppotunity if you have anything to suggest me.
 <table style="border-style: hidden">
  <tr>
   <td>
- <img src="https://static-00.iconduck.com/assets.00/nextjs-icon-1024x1024-5et230l7.png" width="50">
+ <img src="https://marcbruederlin.gallerycdn.vsassets.io/extensions/marcbruederlin/next-icons/0.1.0/1723747598319/Microsoft.VisualStudio.Services.Icons.Default" width="50">
   </td>
    <td>
  <img src="https://angular.io/assets/images/logos/angular/angular.png" width="50">
   </td>
   <td>
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" width="55">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" width="50">
   </td>
   <td>
- <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" width="30">
+ <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" width="50">
   </td>
   <td>
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/768px-Dart-logo.png" width="30">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/768px-Dart-logo.png" width="50">
   </td>
    <td>
- <img src="https://ionicframework.com/img/meta/logo.png" width="30">
+ <img src="https://ionicframework.com/img/meta/logo.png" width="50">
+  </td>
+  <td>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" width="50">
   </td>
    <td>
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="30">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="50">
   </td>
    <td>
- <img src="https://cdn.iconscout.com/icon/free/png-256/free-typescript-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-7-pack-logos-icons-2945272.png?f=webp" width="30">
+ <img src="https://cdn.iconscout.com/icon/free/png-256/free-typescript-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-7-pack-logos-icons-2945272.png?f=webp" width="50">
   </td>
   <td>
  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="50">
