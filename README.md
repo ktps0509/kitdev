@@ -10,6 +10,9 @@ Give me oppotunity if you have anything to suggest me.
 ## Languages and Tools :computer:
 <table style="border-style: hidden">
  <tr>
+  <td>
+ <img src="https://static-00.iconduck.com/assets.00/nextjs-icon-1024x1024-5et230l7.png" width="50">
+  </td>
    <td>
  <img src="https://angular.io/assets/images/logos/angular/angular.png" width="50">
   </td>
