@@ -13,20 +13,11 @@ Give me oppotunity if you have anything to suggest me.
   <td>
  <img src="https://marcbruederlin.gallerycdn.vsassets.io/extensions/marcbruederlin/next-icons/0.1.0/1723747598319/Microsoft.VisualStudio.Services.Icons.Default" width="50">
   </td>
-   <td>
- <img src="https://angular.io/assets/images/logos/angular/angular.png" width="50">
-  </td>
   <td>
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" width="50">
   </td>
-  <td>
- <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" width="50">
-  </td>
-  <td>
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/768px-Dart-logo.png" width="50">
-  </td>
    <td>
- <img src="https://ionicframework.com/img/meta/logo.png" width="50">
+ <img src="https://angular.io/assets/images/logos/angular/angular.png" width="50">
   </td>
   <td>
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" width="50">
@@ -40,6 +31,16 @@ Give me oppotunity if you have anything to suggest me.
   <td>
  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="50">
   </td>
+  <td>
+ <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" width="50">
+  </td>
+  <td>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/768px-Dart-logo.png" width="50">
+  </td>
+   <td>
+ <img src="https://ionicframework.com/img/meta/logo.png" width="50">
+  </td>
+  
  </tr>
 </table>
  
