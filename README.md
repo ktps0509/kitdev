@@ -1,7 +1,9 @@
 ## Hi, I'm Will  :wave:
 
 My name is Kittipich. You can call me Will. I'm Fullstack Developer.
-I like coding and I like to learning but I'm not professional. :joy::seedling:
+I like coding and I like to learning.
+Give me oppotunity if you have anything to suggest me.
+ :joy::seedling:
 
 
 
@@ -27,7 +29,7 @@ I like coding and I like to learning but I'm not professional. :joy::seedling:
  <img src="https://enggkatta.com/sql.png" width="40">
   </td>
    <td>
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="30">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="30">
   </td>
   <td>
  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="50">
