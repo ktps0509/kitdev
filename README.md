@@ -1,6 +1,6 @@
-## Hi, I'm Will  :wave:
+## Hi, I'm Vue  :wave:
 
-My name is Kittipich. You can call me Will. I'm Fullstack Developer.
+My name is Kittipich. You can call me Vue. I'm Fullstack Developer.
 I like coding and I like to learning.
 Give me oppotunity if you have anything to suggest me.
  :joy: :seedling:
