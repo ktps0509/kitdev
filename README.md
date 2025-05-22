@@ -7,7 +7,7 @@ Give me oppotunity if you have anything to suggest me.
 
 
 
-## Languages and Tools :computer:
+## Tech stack :computer:
 <table style="border-style: hidden">
  <tr>
   <td>
